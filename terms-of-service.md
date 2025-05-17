@@ -1,0 +1,30 @@
+Last Updated: May 17th, 2025
+By downloading or using CallMeMaybe, you agree to be bound by these Terms of Service ("Terms"). If you do not agree, do not use the App.
+1. App Purpose and Limitations
+CallMeMaybe is intended as a discreet personal safety aid by simulating incoming phone calls. The App does not contact real people, nor should it be considered a substitute for emergency services.
+Disclaimer:
+ The App is for entertainment and safety support purposes only. We make no guarantees that it will prevent or resolve real-life danger or harm.
+2. User Conduct
+You agree to use the App only for lawful purposes and not to misuse or abuse the simulated call features in a deceptive or unlawful manner.
+3. Payments and Subscriptions
+Premium features may be accessed via in-app purchases. All payments are processed by Apple, and you are bound by their billing policies.
+4. Intellectual Property
+All content, branding, and software within the App are owned by us or licensed to us. You may not copy, distribute, or modify the App without permission.
+5. Limitation of Liability
+We are not liable for:
+Any harm, real or perceived, that may result from reliance on simulated phone calls
+
+
+App malfunctions, downtime, or feature unavailability
+
+
+User misuse of the app
+
+
+To the fullest extent permitted by law, you agree that our total liability shall not exceed the amount paid (if any) for using the App in the 6 months preceding any claim.
+6. Termination
+We reserve the right to suspend or terminate access to the App for any user who violates these Terms.
+7. Governing Law
+These Terms shall be governed by the laws of the United States of America.
+Contact:
+ For support or legal inquiries, contact us at: get.callmemaybe.app@gmail.com
